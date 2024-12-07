@@ -1,0 +1,27 @@
+p{
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: rgb(245, 149, 149);
+}
+.Number{
+  font-family: verdana, "DejaVu Sans", sans-serif;
+
+}
+#One{
+    font-size: 36px;
+    color: blue;
+}
+.two{
+    font-size: 24px;
+    font-family:verdana, "DejaVu Sans ", sans-serif ;
+    
+}
+#three{
+    background-color:hsl(120, 100%, 75%);
+    font-weight: bold;
+    font-size: 24px;
+}
+.four{
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    
+}
+
